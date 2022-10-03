@@ -89,8 +89,8 @@ public class Main {
 		Double total=billAmount+Double.parseDouble(tax);
 		
 		System.out.println("\n\t\t\t\tBill Amount:"+billAmount);
-		System.out.println("\t\t\t\tAdd: Sales Tax:"+tax);
-		System.out.println("\t\t\t\tFinal Amount:"+total);
+		System.out.println("\n\t\t\t\tAdd: Sales Tax:"+tax);
+		System.out.println("\n\t\t\t\tFinal Amount:"+total);
 	
 		
 	}
